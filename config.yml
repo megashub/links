@@ -25,17 +25,17 @@ plugins:
 google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "shub's list o' inks"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+avatar: "./images/shub-logo.png"
 
 # Name section text
-name: "@zhgchgli"
+name: "shub"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    A gaming content creator philanthropist.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -47,10 +47,10 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      text: "Twitch"
+      url: "https://twitch.tv/megashub"
+      alt: "Twitch"
+      title: "Twitch"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
