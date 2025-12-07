@@ -25,7 +25,7 @@ plugins:
 google_analytics_id:
 
 # HTML Title
-title: "shub's list o' inks"
+title: "shub's list o' links"
 
 # Avatar image path
 avatar: "./images/shub-logo.png"
