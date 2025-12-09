@@ -60,7 +60,7 @@ links:
       title: "YouTube"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-medium"
+      icon: "fa-solid fa-envelope"
       text: "Contact Form"
       url: "https://megashub.github.io/contact"
       alt: "Contact Form"
