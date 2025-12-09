@@ -27,7 +27,6 @@ a {
 
 .container {
   width: 90%;
-  max-width: 450px;
 }
 
 .profile-pic {
@@ -57,10 +56,11 @@ a {
 }
 
 .links {
+  max-width: 450px;
   display: flex;
   flex-direction: column;
   gap: 15px;
-  margin-top: 10px;
+  margin: 0 auto;
 }
 
 .link-button {
