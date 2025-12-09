@@ -46,11 +46,18 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-medium"
+      icon: "fa-brands fa-twitch"
       text: "Twitch"
       url: "https://twitch.tv/megashub"
       alt: "Twitch"
       title: "Twitch"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-youtube"
+      text: "YouTube"
+      url: "https://youtube.com/@megashub"
+      alt: "YouTube"
+      title: "YouTube"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
